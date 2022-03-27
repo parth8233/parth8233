@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 For contact mail me at parthsharmma2205@gmail.com
+- 📫 For contact mail me at parthsharma2205@gmail.com
 
 <!---
 parth8233/parth8233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
